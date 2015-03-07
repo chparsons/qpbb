@@ -1,0 +1,6 @@
+set solib-search-path /Users/chparsons/dev/openframeworks/0.8.0_android_release/apps/qpbb/qpbb_params/obj/local/armeabi-v7a:/Users/chparsons/dev/openframeworks/0.8.0_android_release/apps/qpbb/qpbb_params/libs/armeabi-v7a
+directory /Users/chparsons/dev/android/android-ndk-r8d/platforms/android-14/arch-arm/usr/include
+directory /Users/chparsons/dev/openframeworks/0.8.0_android_release/apps/qpbb/qpbb_params/src
+directory /Users/chparsons/dev/android/android-ndk-r8d/sources/cxx-stl/system
+directory /Users/chparsons/dev/openframeworks/0.8.0_android_release/apps/qpbb/qpbb_params/libs/armeabi-v7a
+
