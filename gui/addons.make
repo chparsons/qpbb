@@ -1,0 +1,4 @@
+ofxOsc
+ofxGui
+ofxJSON
+ofxRegex

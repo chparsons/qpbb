@@ -1,0 +1,8 @@
+ofxOsc
+ofxDate
+ofxGui
+ofxJSON
+ofxKeystoneTexture
+ofxMercatorMap
+ofxXmlSettings
+ofxRegex

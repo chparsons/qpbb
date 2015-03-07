@@ -1,0 +1,12 @@
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
+ofxDate
+ofxGui
+ofxJSON
+ofxMercatorMap
+ofxMSAInteractiveObject
+ofxQuadWarp
+ofxRegex
+ofxColorBrewer
+ofxKinect
