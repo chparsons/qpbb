@@ -1,7 +1,0 @@
-<params>
-	<timeline>0</timeline>
-	<alfa>0.01</alfa>
-	<rmin>5</rmin>
-	<rmax>30</rmax>
-	<umbral_indice>100</umbral_indice>
-</params>
